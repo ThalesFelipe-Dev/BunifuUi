@@ -1,4 +1,4 @@
-# BunifuUiCrack
+# BunifuUi
 Bunifu UI Cracked (First non-virus version lol...)<br>
 You can use this with the 7.2.0 version of the Bunifu UI Library.<br>
 (Or, you can use this with any version with Bunifu UI that **uses Bunifu.Licensing 6.0.4**)<br>
